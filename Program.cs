@@ -32,17 +32,24 @@
                 // block of code to be executed if the condition1 is True
                 Console.WriteLine("Calculating...\n = " + (numberOne + numberTwo));
             }
-            else if (insertedOperator ==gange) 
+            else if (insertedOperator == gange)
             {
                 // block of code to be executed if the condition1 is false and condition2 is True
                 Console.WriteLine("Calculating...\n = " + (numberOne * numberTwo));
             }
-            else if (insertedOperator ==divider)
+            else if (insertedOperator == divider)
             {
                 // block of code to be executed if the condition1 is false and condition2 is Fals
                 Console.WriteLine("Calculating...\n = " + (numberOne / numberTwo));
 
             }
+            else {
+                Console.WriteLine("\n----------------------------------------");
+                Console.WriteLine("Oop Error somthing went wrong");
+                Console.WriteLine("----------------------------------------\n");
+                
+            }
+
             // ----------------------------Calculation ----------------------
             //Console.WriteLine("Calculating...\n = " + (numberOne + numberTwo));
            
