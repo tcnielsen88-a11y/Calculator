@@ -37,10 +37,10 @@
                 // block of code to be executed if the condition1 is false and condition2 is True
                 Console.WriteLine("Calculating...\n = " + (numberOne * numberTwo));
             }
-            else
+            else if (insertedOperator ==divider)
             {
                 // block of code to be executed if the condition1 is false and condition2 is Fals
-                Console.WriteLine("Calculating...\n = " + (numberOne - numberTwo));
+                Console.WriteLine("Calculating...\n = " + (numberOne / numberTwo));
 
             }
             // ----------------------------Calculation ----------------------
