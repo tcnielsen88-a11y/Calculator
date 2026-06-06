@@ -2,13 +2,17 @@
 I'm making a Calculater to improve my understanding of coding. 
 
 ## Funktion
-1.
-	- Plus two number.
-	- Minus two number.
-	- Multiply two number.
-	- Divide two number.
-2. Next is multible number and signs.
-3. Add other signs like "( ) "
+1.		
+	- Plus two number.✔️
+	- Minus two number.✔️
+	- Multiply two number.✔️
+	- Divide two number.✔️
+
+3. Make a exit program with [loop](https://www.w3schools.com/cs/cs_for_loop.php)
+ so you can run more calculations at one time.
+4. Clean code with [Method](https://www.w3schools.com/cs/cs_method_parameters.php)
+5. Next is multible number and signs.
+6. Add other signs like "( ) "
 
 
 ## note:
